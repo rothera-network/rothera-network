@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://rothera-network.github.io/rothera-network/"><b>Website</b></a> ·
+  <a href="rotheranetwork.xyz"><b>Website</b></a> ·
   <a href="https://x.com/Rotheranetwork">X / @Rotheranetwork</a> ·
   Ticker <b>$ROTHERA</b>
 </p>
